@@ -22,4 +22,4 @@ This Privacy Policy is effective as of Now and will remain in effect except with
 We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our Fassil App.
 
 Contact Information
-For any questions or concerns regarding the privacy policy, please send us an email to Fassilentreprise@gmail.com.
+For any questions or concerns regarding the privacy policy, please send us an email to imohc.alger@gmail.com.
