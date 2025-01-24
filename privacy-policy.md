@@ -1,25 +1,46 @@
 Privacy Policy
-Fassil App takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
-Collection of Routine Information
-This Fassil App track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific user to this Fassil App. The information is tracked for routine administration and maintenance purposes.
+Effective Date: 01-01-2025
 
-Cookies
-Where necessary, this Fassil App uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the user with customized content.
+Fassil App we, respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and protect your information when you use our app, Fassil App.
 
-Advertisement and Other Third Parties
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this Fassil App in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This Fassil App has no access or control over these cookies, scripts and/or web beacons that may be used by third parties.
+1. Information We Collect
 
-Links to Third Party Websites
-We have included links on this Fassil App for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+We may collect the following types of information:
 
-Security
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Personal Information: If you provide it, we may collect personal information such as your name, email address, or payment details.
+Usage Data: We collect information about how you interact with our app, such as device information, IP addresses, and usage patterns.
+Location Data: With your permission, we may collect information about your device's location to provide certain features.
+2. How We Use Your Information
 
-Changes To This Privacy Policy
-This Privacy Policy is effective as of Now and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+We use the information we collect for the following purposes:
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our Fassil App.
+To provide, maintain, and improve our app and services.
+To personalize your experience and respond to your inquiries.
+To send you updates, promotional material, or other information you have agreed to receive.
+To monitor app performance and troubleshoot technical issues.
+3. How We Share Your Information
 
-Contact Information
-For any questions or concerns regarding the privacy policy, please send us an email to imohc.alger@gmail.com.
+We do not sell or rent your personal information to third parties. However, we may share your information with third parties in the following situations:
+
+With trusted service providers who assist us in operating our app and services.
+If required by law or to protect the rights, property, or safety of our users or others.
+4. Data Security
+
+We use industry-standard security measures to protect your personal information. However, no method of transmission over the internet or electronic storage is 100% secure, so we cannot guarantee absolute security.
+
+5. Your Rights and Choices
+
+You have the right to:
+
+Access, update, or delete your personal information.
+Opt out of receiving promotional communications.
+Control the permissions granted to the app (e.g., location services).
+6. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do, we will post the updated policy on this page and revise the "Effective Date" at the top. We encourage you to review this Privacy Policy periodically.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
+imohc.alger@gmail.com
